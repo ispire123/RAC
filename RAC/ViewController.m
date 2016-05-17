@@ -17,11 +17,24 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+}
+
+-(void)viewDidAppear:(BOOL)animated{
+    
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+-(IBAction)loginAction:(id)sender{
+    
+    NSLog(@"%@", _login_email.text);
+    NSLog(@"%@", _login_password.text);
+}
+
 
 @end
