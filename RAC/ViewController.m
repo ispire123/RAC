@@ -36,5 +36,8 @@
     NSLog(@"%@", _login_password.text);
 }
 
+- (IBAction)forget_password:(UIButton *)sender {
+}
+
 
 @end

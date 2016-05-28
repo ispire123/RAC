@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84E0938A1CF8206900FD6684 /* TextFieldValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E093891CF8206900FD6684 /* TextFieldValidator.m */; };
+		84E0938D1CF825DC00FD6684 /* ForgotPassword.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E0938C1CF825DC00FD6684 /* ForgotPassword.m */; };
+		84E0938F1CF82E9300FD6684 /* 50 Px pressed dashboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E0938E1CF82E9300FD6684 /* 50 Px pressed dashboard.png */; };
+		84E093911CF82EA200FD6684 /* pressed profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E093901CF82EA200FD6684 /* pressed profile.png */; };
+		84E093931CF830EF00FD6684 /* myCars.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E093921CF830EF00FD6684 /* myCars.png */; };
+		84E093951CF8326400FD6684 /* searchACar.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E093941CF8326400FD6684 /* searchACar.png */; };
+		84E093991CF8343B00FD6684 /* addACar1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E093981CF8343B00FD6684 /* addACar1.png */; };
 		84FB81C41CE6BBBF00077629 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB81C31CE6BBBF00077629 /* main.m */; };
 		84FB81C71CE6BBBF00077629 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB81C61CE6BBBF00077629 /* AppDelegate.m */; };
 		84FB81CA1CE6BBC000077629 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB81C91CE6BBC000077629 /* ViewController.m */; };
@@ -32,6 +39,16 @@
 		84FB82161CE6C7CF00077629 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84FB82151CE6C7CF00077629 /* SystemConfiguration.framework */; };
 		84FB82181CE6C7DC00077629 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 84FB82171CE6C7DC00077629 /* libz.tbd */; };
 		84FB821A1CE6C7E800077629 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 84FB82191CE6C7E800077629 /* libsqlite3.tbd */; };
+		84FB821E1CEEF5A400077629 /* PostAddCar.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB821D1CEEF5A400077629 /* PostAddCar.m */; };
+		84FB82211CF02B3000077629 /* Login.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB82201CF02B3000077629 /* Login.m */; };
+		84FB82241CF02B4200077629 /* Registration.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB82231CF02B4200077629 /* Registration.m */; };
+		84FB82271CF02B7800077629 /* PostNewAddCar.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB82261CF02B7800077629 /* PostNewAddCar.m */; };
+		84FB822A1CF02BAB00077629 /* MyCars.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB82291CF02BAB00077629 /* MyCars.m */; };
+		84FB822D1CF02BD200077629 /* Account.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB822C1CF02BD200077629 /* Account.m */; };
+		84FB82301CF0520100077629 /* AvaiableCars.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB822F1CF0520100077629 /* AvaiableCars.m */; };
+		84FB82331CF06ADA00077629 /* CarDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB82321CF06ADA00077629 /* CarDetailCell.m */; };
+		84FB82361CF06D9600077629 /* CompleteDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB82351CF06D9600077629 /* CompleteDetails.m */; };
+		84FB82391CF3F6C700077629 /* MyCarCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FB82381CF3F6C700077629 /* MyCarCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +69,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84E093881CF8206900FD6684 /* TextFieldValidator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldValidator.h; sourceTree = "<group>"; };
+		84E093891CF8206900FD6684 /* TextFieldValidator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldValidator.m; sourceTree = "<group>"; };
+		84E0938B1CF825DC00FD6684 /* ForgotPassword.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForgotPassword.h; sourceTree = "<group>"; };
+		84E0938C1CF825DC00FD6684 /* ForgotPassword.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForgotPassword.m; sourceTree = "<group>"; };
+		84E0938E1CF82E9300FD6684 /* 50 Px pressed dashboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "50 Px pressed dashboard.png"; sourceTree = "<group>"; };
+		84E093901CF82EA200FD6684 /* pressed profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pressed profile.png"; sourceTree = "<group>"; };
+		84E093921CF830EF00FD6684 /* myCars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myCars.png; sourceTree = "<group>"; };
+		84E093941CF8326400FD6684 /* searchACar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = searchACar.png; sourceTree = "<group>"; };
+		84E093981CF8343B00FD6684 /* addACar1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addACar1.png; sourceTree = "<group>"; };
 		84FB81BF1CE6BBBF00077629 /* RAC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RAC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FB81C31CE6BBBF00077629 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		84FB81C51CE6BBBF00077629 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -85,6 +111,26 @@
 		84FB82151CE6C7CF00077629 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		84FB82171CE6C7DC00077629 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		84FB82191CE6C7E800077629 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		84FB821C1CEEF5A400077629 /* PostAddCar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostAddCar.h; sourceTree = "<group>"; };
+		84FB821D1CEEF5A400077629 /* PostAddCar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostAddCar.m; sourceTree = "<group>"; };
+		84FB821F1CF02B3000077629 /* Login.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Login.h; sourceTree = "<group>"; };
+		84FB82201CF02B3000077629 /* Login.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Login.m; sourceTree = "<group>"; };
+		84FB82221CF02B4200077629 /* Registration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Registration.h; sourceTree = "<group>"; };
+		84FB82231CF02B4200077629 /* Registration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Registration.m; sourceTree = "<group>"; };
+		84FB82251CF02B7800077629 /* PostNewAddCar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostNewAddCar.h; sourceTree = "<group>"; };
+		84FB82261CF02B7800077629 /* PostNewAddCar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostNewAddCar.m; sourceTree = "<group>"; };
+		84FB82281CF02BAB00077629 /* MyCars.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCars.h; sourceTree = "<group>"; };
+		84FB82291CF02BAB00077629 /* MyCars.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCars.m; sourceTree = "<group>"; };
+		84FB822B1CF02BD200077629 /* Account.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Account.h; sourceTree = "<group>"; };
+		84FB822C1CF02BD200077629 /* Account.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Account.m; sourceTree = "<group>"; };
+		84FB822E1CF0520100077629 /* AvaiableCars.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvaiableCars.h; sourceTree = "<group>"; };
+		84FB822F1CF0520100077629 /* AvaiableCars.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvaiableCars.m; sourceTree = "<group>"; };
+		84FB82311CF06ADA00077629 /* CarDetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarDetailCell.h; sourceTree = "<group>"; };
+		84FB82321CF06ADA00077629 /* CarDetailCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarDetailCell.m; sourceTree = "<group>"; };
+		84FB82341CF06D9600077629 /* CompleteDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompleteDetails.h; sourceTree = "<group>"; };
+		84FB82351CF06D9600077629 /* CompleteDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompleteDetails.m; sourceTree = "<group>"; };
+		84FB82371CF3F6C700077629 /* MyCarCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCarCell.h; sourceTree = "<group>"; };
+		84FB82381CF3F6C700077629 /* MyCarCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCarCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +196,7 @@
 		84FB81C11CE6BBBF00077629 /* RAC */ = {
 			isa = PBXGroup;
 			children = (
+				84FB821B1CEEF56000077629 /* mainOptions */,
 				84FB81FC1CE6C65F00077629 /* Frameworks */,
 				84FB81F71CE6BC4900077629 /* images */,
 				84FB81F51CE6BC3000077629 /* Main.storyboard */,
@@ -168,6 +215,8 @@
 		84FB81C21CE6BBBF00077629 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				84E093881CF8206900FD6684 /* TextFieldValidator.h */,
+				84E093891CF8206900FD6684 /* TextFieldValidator.m */,
 				84FB81C31CE6BBBF00077629 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -196,6 +245,11 @@
 			children = (
 				84FB81F81CE6BC6300077629 /* loginButton */,
 				84FB81F91CE6BC6300077629 /* registerButton */,
+				84E093901CF82EA200FD6684 /* pressed profile.png */,
+				84E0938E1CF82E9300FD6684 /* 50 Px pressed dashboard.png */,
+				84E093941CF8326400FD6684 /* searchACar.png */,
+				84E093921CF830EF00FD6684 /* myCars.png */,
+				84E093981CF8343B00FD6684 /* addACar1.png */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -220,6 +274,35 @@
 				84FB81FD1CE6C69400077629 /* Bolts.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		84FB821B1CEEF56000077629 /* mainOptions */ = {
+			isa = PBXGroup;
+			children = (
+				84FB821C1CEEF5A400077629 /* PostAddCar.h */,
+				84FB821D1CEEF5A400077629 /* PostAddCar.m */,
+				84FB821F1CF02B3000077629 /* Login.h */,
+				84FB82201CF02B3000077629 /* Login.m */,
+				84FB82221CF02B4200077629 /* Registration.h */,
+				84FB82231CF02B4200077629 /* Registration.m */,
+				84FB82251CF02B7800077629 /* PostNewAddCar.h */,
+				84FB82261CF02B7800077629 /* PostNewAddCar.m */,
+				84FB82281CF02BAB00077629 /* MyCars.h */,
+				84FB82291CF02BAB00077629 /* MyCars.m */,
+				84FB822B1CF02BD200077629 /* Account.h */,
+				84FB822C1CF02BD200077629 /* Account.m */,
+				84FB822E1CF0520100077629 /* AvaiableCars.h */,
+				84FB822F1CF0520100077629 /* AvaiableCars.m */,
+				84FB82311CF06ADA00077629 /* CarDetailCell.h */,
+				84FB82321CF06ADA00077629 /* CarDetailCell.m */,
+				84FB82341CF06D9600077629 /* CompleteDetails.h */,
+				84FB82351CF06D9600077629 /* CompleteDetails.m */,
+				84FB82371CF3F6C700077629 /* MyCarCell.h */,
+				84FB82381CF3F6C700077629 /* MyCarCell.m */,
+				84E0938B1CF825DC00FD6684 /* ForgotPassword.h */,
+				84E0938C1CF825DC00FD6684 /* ForgotPassword.m */,
+			);
+			name = mainOptions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -289,6 +372,7 @@
 				TargetAttributes = {
 					84FB81BE1CE6BBBF00077629 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = RY77JNSEX3;
 					};
 					84FB81D71CE6BBC300077629 = {
 						CreatedOnToolsVersion = 7.3;
@@ -327,9 +411,14 @@
 			files = (
 				84FB81FA1CE6BC6300077629 /* loginButton in Resources */,
 				84FB81F61CE6BC3000077629 /* Main.storyboard in Resources */,
+				84E093991CF8343B00FD6684 /* addACar1.png in Resources */,
 				84FB81D21CE6BBC000077629 /* LaunchScreen.storyboard in Resources */,
+				84E093911CF82EA200FD6684 /* pressed profile.png in Resources */,
+				84E093931CF830EF00FD6684 /* myCars.png in Resources */,
 				84FB81CF1CE6BBC000077629 /* Assets.xcassets in Resources */,
 				84FB81FB1CE6BC6300077629 /* registerButton in Resources */,
+				84E093951CF8326400FD6684 /* searchACar.png in Resources */,
+				84E0938F1CF82E9300FD6684 /* 50 Px pressed dashboard.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,8 +443,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84FB822D1CF02BD200077629 /* Account.m in Sources */,
+				84FB82301CF0520100077629 /* AvaiableCars.m in Sources */,
+				84E0938A1CF8206900FD6684 /* TextFieldValidator.m in Sources */,
+				84FB82211CF02B3000077629 /* Login.m in Sources */,
+				84FB821E1CEEF5A400077629 /* PostAddCar.m in Sources */,
+				84FB822A1CF02BAB00077629 /* MyCars.m in Sources */,
+				84FB82391CF3F6C700077629 /* MyCarCell.m in Sources */,
+				84FB82331CF06ADA00077629 /* CarDetailCell.m in Sources */,
+				84FB82241CF02B4200077629 /* Registration.m in Sources */,
+				84FB82361CF06D9600077629 /* CompleteDetails.m in Sources */,
 				84FB81CA1CE6BBC000077629 /* ViewController.m in Sources */,
+				84E0938D1CF825DC00FD6684 /* ForgotPassword.m in Sources */,
 				84FB81C71CE6BBBF00077629 /* AppDelegate.m in Sources */,
+				84FB82271CF02B7800077629 /* PostNewAddCar.m in Sources */,
 				84FB81C41CE6BBBF00077629 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -491,6 +592,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/RAC",
@@ -499,6 +602,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cqu.RAC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -506,6 +610,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/RAC",
@@ -514,6 +620,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cqu.RAC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
